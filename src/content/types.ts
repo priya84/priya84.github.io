@@ -1,4 +1,4 @@
-export type ContentSource = "Updated CV";
+export type ContentSource = "Updated CV" | "Google Site";
 
 export interface SourcedContent {
   id: string;
